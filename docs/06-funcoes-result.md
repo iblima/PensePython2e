@@ -71,7 +71,7 @@ Conforme você escrever funções maiores, pode ser que passe mais tempo as depu
 
 Para lidar com programas cada vez mais complexos, você pode querer tentar usar um processo chamado de desenvolvimento incremental. A meta do desenvolvimento incremental é evitar longas sessões de depuração, acrescentando e testando pequenas partes do código de cada vez.
 
-Como um exemplo, vamos supor que você queira encontrar a distância entre dois pontos dados pelas coordenadas (x1, y1) e(x2, y2). Pelo teorema de Pitágoras, a distância é:
+Como um exemplo, vamos supor que você queira encontrar a distância entre dois pontos dados pelas coordenadas (x1, y1) e (x2, y2). Pelo teorema de Pitágoras, a distância é:
 
 ![Fórmula – Distância entre dois pontos.](https://github.com/PenseAllen/PensePython2e/raw/master/fig/p63f1.png)
 
