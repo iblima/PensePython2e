@@ -59,7 +59,7 @@ A Figura 10.1 mostra o diagrama de estado para cheeses, numbers e empty.
 ![Figura 10.1 – Diagrama de estado de três listas.](https://github.com/PenseAllen/PensePython2e/raw/master/fig/tnkp_1001.png)
 <br>_Figura 10.1 – Diagrama de estado de três listas._
 
-As listas são representadas pelas caixas com a palavra “lista” fora delas e os elementos da lista dentro delas. cheeses refere-se a uma lista com três elementos indexados como 0, 1 e 2. numbers contém dois elementos e o diagrama mostra que o valor do segundo elemento foi reatribuído de 123 para 5. empty refere-se a uma lista sem elementos.
+As listas são representadas pelas caixas com a palavra “lista” fora delas e os elementos da lista dentro delas. cheeses refere-se a uma lista com três elementos indexados como 0,1 e 2. numbers contém dois elementos e o diagrama mostra que o valor do segundo elemento foi reatribuído de 123 para 5. empty refere-se a uma lista sem elementos.
 
 Índices de listas funcionam da mesma forma que os índices de strings:
 
